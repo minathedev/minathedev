@@ -1,1 +1,1 @@
-[![minathedev](https://github-readme-stats.vercel.app/api?username=minathedev)](https://github.com/anuraghazra/github-readme-stats)
+![minathedev](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
